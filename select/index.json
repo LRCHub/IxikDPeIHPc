@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Wanderlust - NAZE on DREAM STAGE -",
+  "base_artist": "DREAM STAGE",
+  "createdAt": "2026-03-30T05:19:47.300781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Wanderlust",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/01_The_Wanderlust_Metric.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/02_Wanderlust_AlunaGeorge.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/03_Wanderlust_Björk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "Cloud Boat",
+      "has_synced": false,
+      "path": "select/04_Wanderlust_Cloud_Boat.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/05_Wanderlust_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wanderlust (demo)",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/06_Wanderlust_(demo)_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/07_Wanderlust_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/08_Wanderlust_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/09_Wanderlust_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wanderlust",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/10_Wanderlust_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wanderlust (Mathew Herbert Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/11_Wanderlust_(Mathew_Herbert_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wanderlust (Matthew Herbert Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/12_Wanderlust_(Matthew_Herbert_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wanderlust (Ratatat Remix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/13_Wanderlust_(Ratatat_Remix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wanderlust (Ratatat Remix)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/14_Wanderlust_(Ratatat_Remix)_Björk.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wanderlust (Demo Version)",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/15_Wanderlust_(Demo_Version)_Paul_McCartney.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wanderlust - NAZE on DREAM STAGE",
+      "artist": "DREAM STAGE",
+      "has_synced": false,
+      "path": "select/pl_01_Wanderlust_-_NAZE_on_DREAM_STAGE_DREAM_STAGE.txt"
+    }
+  ]
+}
